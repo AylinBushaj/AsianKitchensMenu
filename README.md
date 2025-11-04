@@ -4,6 +4,8 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak hazırlanmış dinamik bir **men
 Kullanıcılar menüdeki tüm Asya yemeklerini görebilir ve butonlar aracılığıyla **ülkelere göre filtreleme** yapabilir.  
 Menü verileri ayrı bir JavaScript dosyasında (`menu.js`) tutulur ve `app.js` dosyası bu verileri işleyerek ekranda dinamik olarak gösterir.
 
+<img width="1000" height="757" alt="asiankitchen" src="https://github.com/user-attachments/assets/8d682ab8-9aa0-46cf-88b8-13776c96b8ea" />
+
 ---
 
 ## 🚀 Özellikler
@@ -34,6 +36,3 @@ Menü verileri ayrı bir JavaScript dosyasında (`menu.js`) tutulur ve `app.js` 
 ├── menu.js          # Menü verilerini içeren dizi
 ├── app.js           # Menü listeleme ve filtreleme işlemleri
 └── README.md        # Proje açıklaması
-
-
-<img width="1000" height="757" alt="asiankitchen" src="https://github.com/user-attachments/assets/8d682ab8-9aa0-46cf-88b8-13776c96b8ea" />
