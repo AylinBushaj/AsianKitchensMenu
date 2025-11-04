@@ -34,3 +34,6 @@ Menü verileri ayrı bir JavaScript dosyasında (`menu.js`) tutulur ve `app.js` 
 ├── menu.js          # Menü verilerini içeren dizi
 ├── app.js           # Menü listeleme ve filtreleme işlemleri
 └── README.md        # Proje açıklaması
+
+
+<img width="1000" height="757" alt="asiankitchen" src="https://github.com/user-attachments/assets/8d682ab8-9aa0-46cf-88b8-13776c96b8ea" />
